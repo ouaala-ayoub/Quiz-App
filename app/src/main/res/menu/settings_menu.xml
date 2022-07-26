@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings" />
+    <item
+        android:id="@+id/update_app"
+        android:title="@string/update_application" />
+    <item
+        android:id="@+id/update_res"
+        android:title="@string/update_ressources" />
+    <item
+        android:id="@+id/share_app"
+        android:title="@string/share_application" />
+    <item
+        android:id="@+id/delete_temp"
+        android:title="@string/delete_temporary" />
+    <item
+        android:id="@+id/download_pdf"
+        android:title="@string/pdf" />
+</menu>

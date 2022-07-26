@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/cream"/>
+            <corners android:radius="20dp"/>
+            <stroke android:color="@color/grey"
+                android:width="1dp"/>
+            <size android:width="100dp"
+                android:height="40dp"/>
+        </shape>
+    </item>
+
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/gay_shit"/>
+            <corners android:radius="15dp"/>
+            <stroke android:color="@color/grey"
+                android:width="1dp"/>
+            <size android:width="100dp"
+                android:height="50dp"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theory">دروس نظرية</string>
+    <string name="route_signs">التشوير الطرقي</string>
+    <string name="settings">اعدادات</string>
+    <string name="pdf">pdfتحميل ملفات ال</string>
+    <string name="delete_temporary">مسح الملفات المؤقتة</string>
+    <string name="sum">مجموع الامتحانات :</string>
+    <string name="mean">متوسط معدلات النجاح :</string>
+    <string name="succes">مجموع الامتحانات التي نجحت(ي) فيها:</string>
+    <string name="failures">مجموع الامتحانات التي لم تنجح(ي) فيها:</string>
+    <string name="exam">امتحان السياقة</string>
+    <string name="set">اعداد الامتحان</string>
+    <string name="time_left">الوقت المتبقي</string>
+    <string name="response">الاجوبة</string>
+    <string name="_00_40"> %1$d/40 : النتيجة</string>
+    <string name="right_answers">الاجوبة الصحيحة</string>
+</resources>
